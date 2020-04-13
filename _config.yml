@@ -3,14 +3,14 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Veronixa
+title:            Alexia
 tagline:          'First website'
 description:      'A first draft of a personal website/art portfolio.'
-url:              https://veronicanutting.github.io
-baseurl:          '/vin'
+url:              https://alexianutting.github.io
+baseurl:          '/slash'
 
 author:
-  name:           'Veronica Nutting'
+  name:           'Alexia Nutting'
   url:            https://www.linkedin.com/in/veronicanutting/
 
 paginate:         5
